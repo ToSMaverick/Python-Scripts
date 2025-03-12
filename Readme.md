@@ -1,10 +1,10 @@
-# Porsche HACCP Export to Rieber
+# Useful Python Scripts
 
 ## Overview
 
-This [Windows Service using Python](https://metallapan.se/post/windows-service-pywin32-pyinstaller) grabs the menu plan data via trigger and exports it to Rieber's Check HACCP.
+This Repo contains a few useful scripts that I needed at some point.
 
-## Getting started and building
+## Getting started
 
 ```cmd
 # Create venv:
